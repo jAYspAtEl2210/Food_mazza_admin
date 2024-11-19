@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "78984862293",
-    "project_id": "jain-palace",
-    "storage_bucket": "jain-palace.firebasestorage.app"
+    "project_number": "997935654402",
+    "project_id": "foodmazaa-95935",
+    "storage_bucket": "foodmazaa-95935.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:78984862293:android:8b41ea76476b049cf552dc",
+        "mobilesdk_app_id": "1:997935654402:android:7f6b1a47024938ea5b291b",
         "android_client_info": {
           "package_name": "com.example.adminpanel"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCMWsdUFh1GQ2eha9LPUwiPBFBeQvc7zi8"
+          "current_key": "AIzaSyCuUJvTX1hiWn3bREqJc26uDz825pzkZ7w"
         }
       ],
       "services": {
